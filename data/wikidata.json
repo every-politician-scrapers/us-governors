@@ -1,0 +1,876 @@
+[
+  {
+    "state": "Alabama",
+    "id": "Q173",
+    "governor": {
+      "name": "Kay Ivey",
+      "gender": "female",
+      "birth_date": "1944-10-15",
+      "identifiers": [
+        {
+          "identifier": "Q6380211",
+          "scheme": "wikidata.org"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nga.org/governors/"
+        }
+      ]
+    }
+  },
+  {
+    "state": "Alaska",
+    "id": "Q797",
+    "governor": {
+      "name": "Mike Dunleavy",
+      "gender": "male",
+      "birth_date": "1961-05-05",
+      "identifiers": [
+        {
+          "identifier": "Q16209663",
+          "scheme": "wikidata.org"
+        }
+      ],
+      "other_names": [
+        {
+          "name": "Mike J. Dunleavy",
+          "source": "wikidata.org"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nga.org/governors/"
+        }
+      ]
+    }
+  },
+  {
+    "state": "American Samoa",
+    "id": "Q16641",
+    "governor": {
+      "name": "Lemanu Peleti Mauga",
+      "gender": "male",
+      "birth_date": "1949-01-01",
+      "identifiers": [
+        {
+          "identifier": "Q6521013",
+          "scheme": "wikidata.org"
+        }
+      ]
+    }
+  },
+  {
+    "state": "Arizona",
+    "id": "Q816",
+    "governor": {
+      "name": "Doug Ducey",
+      "gender": "male",
+      "birth_date": "1964-04-09",
+      "identifiers": [
+        {
+          "identifier": "Q5300433",
+          "scheme": "wikidata.org"
+        }
+      ]
+    }
+  },
+  {
+    "state": "Arkansas",
+    "id": "Q1612",
+    "governor": {
+      "name": "Asa Hutchinson",
+      "gender": "male",
+      "birth_date": "1950-12-03",
+      "identifiers": [
+        {
+          "identifier": "Q720121",
+          "scheme": "wikidata.org"
+        }
+      ]
+    }
+  },
+  {
+    "state": "California",
+    "id": "Q99",
+    "governor": {
+      "name": "Gavin Newsom",
+      "gender": "male",
+      "birth_date": "1967-10-10",
+      "identifiers": [
+        {
+          "identifier": "Q461391",
+          "scheme": "wikidata.org"
+        }
+      ]
+    }
+  },
+  {
+    "state": "Colorado",
+    "id": "Q1261",
+    "governor": {
+      "name": "Jared Polis",
+      "gender": "male",
+      "birth_date": "1975-05-12",
+      "identifiers": [
+        {
+          "identifier": "Q935734",
+          "scheme": "wikidata.org"
+        }
+      ]
+    }
+  },
+  {
+    "state": "Connecticut",
+    "id": "Q779",
+    "governor": {
+      "name": "Ned Lamont",
+      "gender": "male",
+      "birth_date": "1954-01-03",
+      "identifiers": [
+        {
+          "identifier": "Q1973878",
+          "scheme": "wikidata.org"
+        }
+      ]
+    }
+  },
+  {
+    "state": "Delaware",
+    "id": "Q1393",
+    "governor": {
+      "name": "John Carney",
+      "gender": "male",
+      "birth_date": "1956-05-20",
+      "identifiers": [
+        {
+          "identifier": "Q505302",
+          "scheme": "wikidata.org"
+        }
+      ]
+    }
+  },
+  {
+    "state": "Florida",
+    "id": "Q812",
+    "governor": {
+      "name": "Ron DeSantis",
+      "gender": "male",
+      "birth_date": "1978-09-14",
+      "identifiers": [
+        {
+          "identifier": "Q3105215",
+          "scheme": "wikidata.org"
+        }
+      ]
+    }
+  },
+  {
+    "state": "Georgia",
+    "id": "Q1428",
+    "governor": {
+      "name": "Brian Kemp",
+      "gender": "male",
+      "birth_date": "1963-11-02",
+      "identifiers": [
+        {
+          "identifier": "Q4964973",
+          "scheme": "wikidata.org"
+        }
+      ]
+    }
+  },
+  {
+    "state": "Guam",
+    "id": "Q16635",
+    "governor": {
+      "name": "Lou Leon Guerrero",
+      "gender": "female",
+      "birth_date": "1950-11-08",
+      "identifiers": [
+        {
+          "identifier": "Q21066675",
+          "scheme": "wikidata.org"
+        }
+      ]
+    }
+  },
+  {
+    "state": "Hawaii",
+    "id": "Q782",
+    "governor": {
+      "name": "David Ige",
+      "gender": "male",
+      "birth_date": "1957-01-15",
+      "identifiers": [
+        {
+          "identifier": "Q16189318",
+          "scheme": "wikidata.org"
+        }
+      ]
+    }
+  },
+  {
+    "state": "Idaho",
+    "id": "Q1221",
+    "governor": {
+      "name": "Brad Little",
+      "gender": "male",
+      "birth_date": "1954-02-15",
+      "identifiers": [
+        {
+          "identifier": "Q4954097",
+          "scheme": "wikidata.org"
+        }
+      ]
+    }
+  },
+  {
+    "state": "Illinois",
+    "id": "Q1204",
+    "governor": {
+      "name": "J.B. Pritzker",
+      "gender": "male",
+      "birth_date": "1965-01-19",
+      "identifiers": [
+        {
+          "identifier": "Q6103950",
+          "scheme": "wikidata.org"
+        }
+      ]
+    }
+  },
+  {
+    "state": "Indiana",
+    "id": "Q1415",
+    "governor": {
+      "name": "Eric Holcomb",
+      "gender": "male",
+      "birth_date": "1968-05-02",
+      "identifiers": [
+        {
+          "identifier": "Q23016975",
+          "scheme": "wikidata.org"
+        }
+      ]
+    }
+  },
+  {
+    "state": "Iowa",
+    "id": "Q1546",
+    "governor": {
+      "name": "Kim Reynolds",
+      "gender": "female",
+      "birth_date": "1959-08-04",
+      "identifiers": [
+        {
+          "identifier": "Q6409269",
+          "scheme": "wikidata.org"
+        }
+      ]
+    }
+  },
+  {
+    "state": "Kansas",
+    "id": "Q1558",
+    "governor": {
+      "name": "Laura Kelly",
+      "gender": "female",
+      "birth_date": "1950-01-24",
+      "identifiers": [
+        {
+          "identifier": "Q6499080",
+          "scheme": "wikidata.org"
+        }
+      ]
+    }
+  },
+  {
+    "state": "Kentucky",
+    "id": "Q1603",
+    "governor": {
+      "name": "Andy Beshear",
+      "gender": "male",
+      "birth_date": "1977-11-29",
+      "identifiers": [
+        {
+          "identifier": "Q21572825",
+          "scheme": "wikidata.org"
+        }
+      ]
+    }
+  },
+  {
+    "state": "Louisiana",
+    "id": "Q1588",
+    "governor": {
+      "name": "John Bel Edwards",
+      "gender": "male",
+      "birth_date": "1966-09-16",
+      "identifiers": [
+        {
+          "identifier": "Q6221385",
+          "scheme": "wikidata.org"
+        }
+      ]
+    }
+  },
+  {
+    "state": "Maine",
+    "id": "Q724",
+    "governor": {
+      "name": "Janet Mills",
+      "gender": "female",
+      "birth_date": "1947-12-30",
+      "identifiers": [
+        {
+          "identifier": "Q6153618",
+          "scheme": "wikidata.org"
+        }
+      ],
+      "other_names": [
+        {
+          "name": "Janet T. Mills",
+          "source": "wikidata.org"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nga.org/governors/"
+        }
+      ]
+    }
+  },
+  {
+    "state": "Maryland",
+    "id": "Q1391",
+    "governor": {
+      "name": "Larry Hogan",
+      "gender": "male",
+      "birth_date": "1956-05-25",
+      "identifiers": [
+        {
+          "identifier": "Q16731303",
+          "scheme": "wikidata.org"
+        }
+      ]
+    }
+  },
+  {
+    "state": "Massachusetts",
+    "id": "Q771",
+    "governor": {
+      "name": "Charlie Baker",
+      "gender": "male",
+      "birth_date": "1956-11-13",
+      "identifiers": [
+        {
+          "identifier": "Q5076629",
+          "scheme": "wikidata.org"
+        }
+      ]
+    }
+  },
+  {
+    "state": "Michigan",
+    "id": "Q1166",
+    "governor": {
+      "name": "Gretchen Whitmer",
+      "gender": "female",
+      "birth_date": "1971-08-23",
+      "identifiers": [
+        {
+          "identifier": "Q5607720",
+          "scheme": "wikidata.org"
+        }
+      ]
+    }
+  },
+  {
+    "state": "Minnesota",
+    "id": "Q1527",
+    "governor": {
+      "name": "Tim Walz",
+      "gender": "male",
+      "birth_date": "1964-04-06",
+      "identifiers": [
+        {
+          "identifier": "Q2434360",
+          "scheme": "wikidata.org"
+        }
+      ]
+    }
+  },
+  {
+    "state": "Mississippi",
+    "id": "Q1494",
+    "governor": {
+      "name": "Tate Reeves",
+      "gender": "male",
+      "birth_date": "1974-06-05",
+      "identifiers": [
+        {
+          "identifier": "Q7687964",
+          "scheme": "wikidata.org"
+        }
+      ]
+    }
+  },
+  {
+    "state": "Missouri",
+    "id": "Q1581",
+    "governor": {
+      "name": "Mike Parson",
+      "gender": "male",
+      "birth_date": "1955-09-17",
+      "identifiers": [
+        {
+          "identifier": "Q6848323",
+          "scheme": "wikidata.org"
+        }
+      ]
+    }
+  },
+  {
+    "state": "Montana",
+    "id": "Q1212",
+    "governor": {
+      "name": "Greg Gianforte",
+      "gender": "male",
+      "birth_date": "1961-04-17",
+      "identifiers": [
+        {
+          "identifier": "Q5605607",
+          "scheme": "wikidata.org"
+        }
+      ]
+    }
+  },
+  {
+    "state": "Nebraska",
+    "id": "Q1553",
+    "governor": {
+      "name": "Pete Ricketts",
+      "gender": "male",
+      "birth_date": "1964-08-19",
+      "identifiers": [
+        {
+          "identifier": "Q6106781",
+          "scheme": "wikidata.org"
+        }
+      ]
+    }
+  },
+  {
+    "state": "Nevada",
+    "id": "Q1227",
+    "governor": {
+      "name": "Steve Sisolak",
+      "gender": "male",
+      "birth_date": "1953-12-26",
+      "identifiers": [
+        {
+          "identifier": "Q16185594",
+          "scheme": "wikidata.org"
+        }
+      ]
+    }
+  },
+  {
+    "state": "New Hampshire",
+    "id": "Q759",
+    "governor": {
+      "name": "Chris Sununu",
+      "gender": "male",
+      "birth_date": "1974-11-05",
+      "identifiers": [
+        {
+          "identifier": "Q16215583",
+          "scheme": "wikidata.org"
+        }
+      ]
+    }
+  },
+  {
+    "state": "New Jersey",
+    "id": "Q1408",
+    "governor": {
+      "name": "Phil Murphy",
+      "gender": "male",
+      "birth_date": "1957-08-16",
+      "identifiers": [
+        {
+          "identifier": "Q260042",
+          "scheme": "wikidata.org"
+        }
+      ]
+    }
+  },
+  {
+    "state": "New Mexico",
+    "id": "Q1522",
+    "governor": {
+      "name": "Michelle Lujan Grisham",
+      "gender": "female",
+      "birth_date": "1959-10-24",
+      "identifiers": [
+        {
+          "identifier": "Q3917203",
+          "scheme": "wikidata.org"
+        }
+      ]
+    }
+  },
+  {
+    "state": "New York",
+    "id": "Q1384",
+    "governor": {
+      "name": "Andrew Cuomo",
+      "gender": "male",
+      "birth_date": "1957-12-06",
+      "identifiers": [
+        {
+          "identifier": "Q11673",
+          "scheme": "wikidata.org"
+        }
+      ]
+    }
+  },
+  {
+    "state": "North Carolina",
+    "id": "Q1454",
+    "governor": {
+      "name": "Roy Cooper",
+      "gender": "male",
+      "birth_date": "1957-06-13",
+      "identifiers": [
+        {
+          "identifier": "Q7372694",
+          "scheme": "wikidata.org"
+        }
+      ]
+    }
+  },
+  {
+    "state": "North Dakota",
+    "id": "Q1207",
+    "governor": {
+      "name": "Doug Burgum",
+      "gender": "male",
+      "birth_date": "1956-08-01",
+      "identifiers": [
+        {
+          "identifier": "Q22095395",
+          "scheme": "wikidata.org"
+        }
+      ]
+    }
+  },
+  {
+    "state": "Northern Mariana Islands",
+    "id": "Q16644",
+    "governor": {
+      "name": "Ralph Deleon Guerrero Torres",
+      "gender": "male",
+      "birth_date": "1979-08-06",
+      "identifiers": [
+        {
+          "identifier": "Q21863882",
+          "scheme": "wikidata.org"
+        }
+      ],
+      "other_names": [
+        {
+          "name": "Ralph Torres",
+          "source": "wikidata.org"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nga.org/governors/"
+        }
+      ]
+    }
+  },
+  {
+    "state": "Ohio",
+    "id": "Q1397",
+    "governor": {
+      "name": "Mike DeWine",
+      "gender": "male",
+      "birth_date": "1947-01-05",
+      "identifiers": [
+        {
+          "identifier": "Q1363468",
+          "scheme": "wikidata.org"
+        }
+      ]
+    }
+  },
+  {
+    "state": "Oklahoma",
+    "id": "Q1649",
+    "governor": {
+      "name": "Kevin Stitt",
+      "gender": "male",
+      "birth_date": "1972-12-28",
+      "identifiers": [
+        {
+          "identifier": "Q58322517",
+          "scheme": "wikidata.org"
+        }
+      ]
+    }
+  },
+  {
+    "state": "Oregon",
+    "id": "Q824",
+    "governor": {
+      "name": "Kate Brown",
+      "gender": "female",
+      "birth_date": "1960-06-21",
+      "identifiers": [
+        {
+          "identifier": "Q6375399",
+          "scheme": "wikidata.org"
+        }
+      ]
+    }
+  },
+  {
+    "state": "Pennsylvania",
+    "id": "Q1400",
+    "governor": {
+      "name": "Tom Wolf",
+      "gender": "male",
+      "birth_date": "1948-11-17",
+      "identifiers": [
+        {
+          "identifier": "Q7794795",
+          "scheme": "wikidata.org"
+        }
+      ]
+    }
+  },
+  {
+    "state": "Puerto Rico",
+    "id": "Q1183",
+    "governor": {
+      "name": "Pedro Pierluisi",
+      "gender": "male",
+      "birth_date": "1959-04-26",
+      "identifiers": [
+        {
+          "identifier": "Q2277878",
+          "scheme": "wikidata.org"
+        }
+      ]
+    }
+  },
+  {
+    "state": "Rhode Island",
+    "id": "Q1387",
+    "governor": {
+      "name": "Dan McKee",
+      "gender": "male",
+      "birth_date": "1951-06-16",
+      "identifiers": [
+        {
+          "identifier": "Q5218111",
+          "scheme": "wikidata.org"
+        }
+      ],
+      "other_names": [
+        {
+          "name": "Daniel McKee",
+          "source": "wikidata.org"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nga.org/governors/"
+        }
+      ]
+    }
+  },
+  {
+    "state": "South Carolina",
+    "id": "Q1456",
+    "governor": {
+      "name": "Henry McMaster",
+      "gender": "male",
+      "birth_date": "1947-05-27",
+      "identifiers": [
+        {
+          "identifier": "Q5725737",
+          "scheme": "wikidata.org"
+        }
+      ]
+    }
+  },
+  {
+    "state": "South Dakota",
+    "id": "Q1211",
+    "governor": {
+      "name": "Kristi Noem",
+      "gender": "female",
+      "birth_date": "1971-11-30",
+      "identifiers": [
+        {
+          "identifier": "Q465749",
+          "scheme": "wikidata.org"
+        }
+      ]
+    }
+  },
+  {
+    "state": "Tennessee",
+    "id": "Q1509",
+    "governor": {
+      "name": "Bill Lee",
+      "gender": "male",
+      "birth_date": "1959-10-09",
+      "identifiers": [
+        {
+          "identifier": "Q58321685",
+          "scheme": "wikidata.org"
+        }
+      ]
+    }
+  },
+  {
+    "state": "Texas",
+    "id": "Q1439",
+    "governor": {
+      "name": "Greg Abbott",
+      "gender": "male",
+      "birth_date": "1957-11-13",
+      "identifiers": [
+        {
+          "identifier": "Q5605224",
+          "scheme": "wikidata.org"
+        }
+      ]
+    }
+  },
+  {
+    "state": "United States Virgin Islands",
+    "id": "Q11703",
+    "governor": {
+      "name": "Albert Bryan Jr.",
+      "gender": "male",
+      "birth_date": "1968-02-21",
+      "identifiers": [
+        {
+          "identifier": "Q59302363",
+          "scheme": "wikidata.org"
+        }
+      ]
+    }
+  },
+  {
+    "state": "Utah",
+    "id": "Q829",
+    "governor": {
+      "name": "Spencer Cox",
+      "gender": "male",
+      "birth_date": "1975-07-11",
+      "identifiers": [
+        {
+          "identifier": "Q16208237",
+          "scheme": "wikidata.org"
+        }
+      ]
+    }
+  },
+  {
+    "state": "Vermont",
+    "id": "Q16551",
+    "governor": {
+      "name": "Phil Scott",
+      "gender": "male",
+      "birth_date": "1958-08-04",
+      "identifiers": [
+        {
+          "identifier": "Q7185808",
+          "scheme": "wikidata.org"
+        }
+      ]
+    }
+  },
+  {
+    "state": "Virginia",
+    "id": "Q1370",
+    "governor": {
+      "name": "Ralph Northam",
+      "gender": "male",
+      "birth_date": "1959-09-13",
+      "identifiers": [
+        {
+          "identifier": "Q7287916",
+          "scheme": "wikidata.org"
+        }
+      ]
+    }
+  },
+  {
+    "state": "Washington",
+    "id": "Q1223",
+    "governor": {
+      "name": "Jay Inslee",
+      "gender": "male",
+      "birth_date": "1951-02-09",
+      "identifiers": [
+        {
+          "identifier": "Q1100710",
+          "scheme": "wikidata.org"
+        }
+      ]
+    }
+  },
+  {
+    "state": "West Virginia",
+    "id": "Q1371",
+    "governor": {
+      "name": "Jim Justice",
+      "gender": "male",
+      "birth_date": "1951-04-27",
+      "identifiers": [
+        {
+          "identifier": "Q20684288",
+          "scheme": "wikidata.org"
+        }
+      ]
+    }
+  },
+  {
+    "state": "Wisconsin",
+    "id": "Q1537",
+    "governor": {
+      "name": "Tony Evers",
+      "gender": "male",
+      "birth_date": "1951-11-05",
+      "identifiers": [
+        {
+          "identifier": "Q7822309",
+          "scheme": "wikidata.org"
+        }
+      ]
+    }
+  },
+  {
+    "state": "Wyoming",
+    "id": "Q1214",
+    "governor": {
+      "name": "Mark Gordon",
+      "gender": "male",
+      "birth_date": "1957-03-14",
+      "identifiers": [
+        {
+          "identifier": "Q6767775",
+          "scheme": "wikidata.org"
+        }
+      ]
+    }
+  }
+]

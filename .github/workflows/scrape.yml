@@ -23,6 +23,8 @@ jobs:
       run: bundle exec ruby bin/scraper/wikidata.rb meta.json | ifne tee data/wikidata.csv
     - name: Generate diff
       run: bundle exec ruby bin/diff.rb | tee data/diff.csv
+    - name: Generate sample JSON output
+      run: bundle exec ruby bin/output/json.rb data/wikidata.csv | ifne tee data/wikidata.json
     - name: Commit and push changed data
       run: |-
         git config user.name "Automated"
