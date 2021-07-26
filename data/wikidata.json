@@ -102,6 +102,10 @@
         {
           "identifier": "Q720121",
           "scheme": "wikidata.org"
+        },
+        {
+          "identifier": "H001014",
+          "scheme": "US Congress"
         }
       ],
       "sources": [
@@ -142,6 +146,10 @@
         {
           "identifier": "Q935734",
           "scheme": "wikidata.org"
+        },
+        {
+          "identifier": "P000598",
+          "scheme": "US Congress"
         }
       ],
       "sources": [
@@ -182,6 +190,10 @@
         {
           "identifier": "Q505302",
           "scheme": "wikidata.org"
+        },
+        {
+          "identifier": "C001083",
+          "scheme": "US Congress"
         }
       ],
       "sources": [
@@ -202,6 +214,10 @@
         {
           "identifier": "Q3105215",
           "scheme": "wikidata.org"
+        },
+        {
+          "identifier": "D000621",
+          "scheme": "US Congress"
         }
       ],
       "sources": [
@@ -514,6 +530,10 @@
         {
           "identifier": "Q2434360",
           "scheme": "wikidata.org"
+        },
+        {
+          "identifier": "W000799",
+          "scheme": "US Congress"
         }
       ],
       "sources": [
@@ -574,6 +594,10 @@
         {
           "identifier": "Q5605607",
           "scheme": "wikidata.org"
+        },
+        {
+          "identifier": "G000584",
+          "scheme": "US Congress"
         }
       ],
       "sources": [
@@ -674,6 +698,10 @@
         {
           "identifier": "Q3917203",
           "scheme": "wikidata.org"
+        },
+        {
+          "identifier": "L000580",
+          "scheme": "US Congress"
         }
       ],
       "sources": [
@@ -780,6 +808,10 @@
         {
           "identifier": "Q1363468",
           "scheme": "wikidata.org"
+        },
+        {
+          "identifier": "D000294",
+          "scheme": "US Congress"
         }
       ],
       "sources": [
@@ -860,6 +892,10 @@
         {
           "identifier": "Q2277878",
           "scheme": "wikidata.org"
+        },
+        {
+          "identifier": "P000596",
+          "scheme": "US Congress"
         }
       ],
       "sources": [
@@ -926,6 +962,10 @@
         {
           "identifier": "Q465749",
           "scheme": "wikidata.org"
+        },
+        {
+          "identifier": "N000184",
+          "scheme": "US Congress"
         }
       ],
       "sources": [
@@ -1061,6 +1101,10 @@
         {
           "identifier": "Q1100710",
           "scheme": "wikidata.org"
+        },
+        {
+          "identifier": "I000026",
+          "scheme": "US Congress"
         }
       ],
       "sources": [

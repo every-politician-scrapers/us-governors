@@ -6,7 +6,7 @@ require 'every_politician_scraper/wikidata_query'
 query = <<SPARQL
   SELECT DISTINCT (STRAFTER(STR(?stateItem), STR(wd:)) AS ?stateid) ?state
      (STRAFTER(STR(?governor), STR(wd:)) AS ?item)
-     ?name ?enLabel ?gender ?dob ?dobPrecision ?source
+     ?name ?enLabel ?gender ?dob ?dobPrecision ?congressID ?source
      (STRAFTER(STR(?ps), '/statement/') AS ?psid)
   WHERE {
     ?stateItem wdt:P31/wdt:P279* wd:Q852446 ; wdt:P1313 ?position .
@@ -28,6 +28,8 @@ query = <<SPARQL
     OPTIONAL {
       ?governor p:P569/psv:P569 [wikibase:timeValue ?dob ; wikibase:timePrecision ?dobPrecision]
     }
+
+    OPTIONAL { ?governor wdt:P1157 ?congressID }
 
     SERVICE wikibase:label {
       bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en".

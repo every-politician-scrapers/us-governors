@@ -63,7 +63,7 @@ class Member
       name:        name,
       gender:      gender,
       birth_date:  birth_date,
-      identifiers: [{ identifier: id, scheme: 'wikidata.org' }],
+      identifiers: identifiers,
       other_names: other_names,
       sources:     sources,
     }.compact
@@ -107,6 +107,12 @@ class Member
 
   def label
     row[:enlabel]
+  end
+
+  def identifiers
+    identifiers = [{ identifier: id, scheme: 'wikidata.org' }]
+    identifiers += [{ identifier: row[:congressid], scheme: 'US Congress' }] if row[:congressid]
+    identifiers.flatten
   end
 
   def sources
