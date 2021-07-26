@@ -1,56 +1,56 @@
 stateid,state,item,name,enLabel,gender,dob,dobPrecision,source,psid
 Q173,Alabama,Q6380211,Kay Ivey,Kay Ivey,female,1944-10-15T00:00:00Z,11,https://www.nga.org/governors/,Q6380211-df166c65-4756-8f70-bb7a-fe3a4a02b2d6
 Q797,Alaska,Q16209663,Mike Dunleavy,Mike J. Dunleavy,male,1961-05-05T00:00:00Z,11,https://www.nga.org/governors/,Q16209663-c79d04b4-4e6c-fed1-720e-123f4472136c
-Q16641,American Samoa,Q6521013,Lemanu Peleti Mauga,Lemanu Peleti Mauga,male,1949-01-01T00:00:00Z,11,,Q6521013-f4f244ae-4111-0aa2-556e-2a899a6c7612
-Q816,Arizona,Q5300433,Doug Ducey,Doug Ducey,male,1964-04-09T00:00:00Z,11,,Q5300433-98f57c95-4ddd-2dcf-3050-52c7e259dabc
-Q1612,Arkansas,Q720121,Asa Hutchinson,Asa Hutchinson,male,1950-12-03T00:00:00Z,11,,Q720121-6eaf5edc-41a0-53af-8379-7cde02d70488
-Q99,California,Q461391,Gavin Newsom,Gavin Newsom,male,1967-10-10T00:00:00Z,11,,Q461391-3245ec71-45c9-f21b-2047-b879d951687b
-Q1261,Colorado,Q935734,Jared Polis,Jared Polis,male,1975-05-12T00:00:00Z,11,,Q935734-b9835516-4721-8ec3-343d-cb4992d64cb8
-Q779,Connecticut,Q1973878,Ned Lamont,Ned Lamont,male,1954-01-03T00:00:00Z,11,,Q1973878-137cec84-2d49-4b5e-b1eb-c975272fc451
-Q1393,Delaware,Q505302,John Carney,John Carney,male,1956-05-20T00:00:00Z,11,,Q505302-ced9c187-479a-dfc8-8d4c-6412f8643eb0
-Q812,Florida,Q3105215,Ron DeSantis,Ron DeSantis,male,1978-09-14T00:00:00Z,11,,Q3105215-988eb43f-42cf-5ef5-5dd8-b53fbb8a50ad
-Q1428,Georgia,Q4964973,Brian Kemp,Brian Kemp,male,1963-11-02T00:00:00Z,11,,Q4964973-2026b223-e662-4817-9045-c7397d5e8a94
-Q16635,Guam,Q21066675,Lou Leon Guerrero,Lou Leon Guerrero,female,1950-11-08T00:00:00Z,11,,Q21066675-5e2021d3-43de-958b-0ce2-102839c0ec36
-Q782,Hawaii,Q16189318,David Ige,David Ige,male,1957-01-15T00:00:00Z,11,,Q16189318-2158EFFC-F5D9-4DCC-8C81-15F1F923061D
-Q1221,Idaho,Q4954097,Brad Little,Brad Little,male,1954-02-15T00:00:00Z,11,,Q4954097-c8f8830f-49e9-9120-78e2-d649abc3b198
-Q1204,Illinois,Q6103950,J.B. Pritzker,J.B. Pritzker,male,1965-01-19T00:00:00Z,11,,Q6103950-2e2c7772-bf91-44d7-931b-cb027382a274
-Q1415,Indiana,Q23016975,Eric Holcomb,Eric Holcomb,male,1968-05-02T00:00:00Z,11,,Q23016975-40e67bbc-41a6-e20d-54e4-38bc0a7fefec
-Q1546,Iowa,Q6409269,Kim Reynolds,Kim Reynolds,female,1959-08-04T00:00:00Z,11,,Q6409269-eed12e5c-4e1b-6e3c-3184-826a7ded2774
-Q1558,Kansas,Q6499080,Laura Kelly,Laura Kelly,female,1950-01-24T00:00:00Z,11,,Q6499080-33db0ea3-4ef2-bc09-de5a-3aef3aac8167
-Q1603,Kentucky,Q21572825,Andy Beshear,Andy Beshear,male,1977-11-29T00:00:00Z,11,,Q21572825-47131d16-4899-a8fa-7851-9a8422b182e9
-Q1588,Louisiana,Q6221385,John Bel Edwards,John Bel Edwards,male,1966-09-16T00:00:00Z,11,,Q6221385-f56c0bc6-4769-cefb-b27a-455d6d104ff5
+Q16641,American Samoa,Q6521013,Lemanu P. S. Mauga,Lemanu Peleti Mauga,male,1949-01-01T00:00:00Z,11,https://www.nga.org/governors/,Q6521013-f4f244ae-4111-0aa2-556e-2a899a6c7612
+Q816,Arizona,Q5300433,Doug Ducey,Doug Ducey,male,1964-04-09T00:00:00Z,11,https://www.nga.org/governors/,Q5300433-98f57c95-4ddd-2dcf-3050-52c7e259dabc
+Q1612,Arkansas,Q720121,Asa Hutchinson,Asa Hutchinson,male,1950-12-03T00:00:00Z,11,https://www.nga.org/governors/,Q720121-6eaf5edc-41a0-53af-8379-7cde02d70488
+Q99,California,Q461391,Gavin Newsom,Gavin Newsom,male,1967-10-10T00:00:00Z,11,https://www.nga.org/governors/,Q461391-3245ec71-45c9-f21b-2047-b879d951687b
+Q1261,Colorado,Q935734,Jared Polis,Jared Polis,male,1975-05-12T00:00:00Z,11,https://www.nga.org/governors/,Q935734-b9835516-4721-8ec3-343d-cb4992d64cb8
+Q779,Connecticut,Q1973878,Ned Lamont,Ned Lamont,male,1954-01-03T00:00:00Z,11,https://www.nga.org/governors/,Q1973878-137cec84-2d49-4b5e-b1eb-c975272fc451
+Q1393,Delaware,Q505302,John Carney,John Carney,male,1956-05-20T00:00:00Z,11,https://www.nga.org/governors/,Q505302-ced9c187-479a-dfc8-8d4c-6412f8643eb0
+Q812,Florida,Q3105215,Ron DeSantis,Ron DeSantis,male,1978-09-14T00:00:00Z,11,https://www.nga.org/governors/,Q3105215-988eb43f-42cf-5ef5-5dd8-b53fbb8a50ad
+Q1428,Georgia,Q4964973,Brian Kemp,Brian Kemp,male,1963-11-02T00:00:00Z,11,https://www.nga.org/governors/,Q4964973-2026b223-e662-4817-9045-c7397d5e8a94
+Q16635,Guam,Q21066675,Lou Leon Guerrero,Lou Leon Guerrero,female,1950-11-08T00:00:00Z,11,https://www.nga.org/governors/,Q21066675-5e2021d3-43de-958b-0ce2-102839c0ec36
+Q782,Hawaii,Q16189318,David Ige,David Ige,male,1957-01-15T00:00:00Z,11,https://www.nga.org/governors/,Q16189318-2158EFFC-F5D9-4DCC-8C81-15F1F923061D
+Q1221,Idaho,Q4954097,Brad Little,Brad Little,male,1954-02-15T00:00:00Z,11,https://www.nga.org/governors/,Q4954097-c8f8830f-49e9-9120-78e2-d649abc3b198
+Q1204,Illinois,Q6103950,JB Pritzker,J.B. Pritzker,male,1965-01-19T00:00:00Z,11,https://www.nga.org/governors/,Q6103950-2e2c7772-bf91-44d7-931b-cb027382a274
+Q1415,Indiana,Q23016975,Eric Holcomb,Eric Holcomb,male,1968-05-02T00:00:00Z,11,https://www.nga.org/governors/,Q23016975-40e67bbc-41a6-e20d-54e4-38bc0a7fefec
+Q1546,Iowa,Q6409269,Kim Reynolds,Kim Reynolds,female,1959-08-04T00:00:00Z,11,https://www.nga.org/governors/,Q6409269-eed12e5c-4e1b-6e3c-3184-826a7ded2774
+Q1558,Kansas,Q6499080,Laura Kelly,Laura Kelly,female,1950-01-24T00:00:00Z,11,https://www.nga.org/governors/,Q6499080-33db0ea3-4ef2-bc09-de5a-3aef3aac8167
+Q1603,Kentucky,Q21572825,Andy Beshear,Andy Beshear,male,1977-11-29T00:00:00Z,11,https://www.nga.org/governors/,Q21572825-47131d16-4899-a8fa-7851-9a8422b182e9
+Q1588,Louisiana,Q6221385,John Bel Edwards,John Bel Edwards,male,1966-09-16T00:00:00Z,11,https://www.nga.org/governors/,Q6221385-f56c0bc6-4769-cefb-b27a-455d6d104ff5
 Q724,Maine,Q6153618,Janet Mills,Janet T. Mills,female,1947-12-30T00:00:00Z,11,https://www.nga.org/governors/,Q6153618-f0f14fe7-4dd6-2d2c-f20a-af0d0a3144f9
-Q1391,Maryland,Q16731303,Larry Hogan,Larry Hogan,male,1956-05-25T00:00:00Z,11,,Q16731303-3A1D0ED4-77B7-4C72-8EA8-B355283D5069
-Q771,Massachusetts,Q5076629,Charlie Baker,Charlie Baker,male,1956-11-13T00:00:00Z,11,,Q5076629-9E3F016C-FB0E-434C-A99B-482FC1B4BADD
-Q1166,Michigan,Q5607720,Gretchen Whitmer,Gretchen Whitmer,female,1971-08-23T00:00:00Z,11,,Q5607720-9a37de9e-41e2-9f35-80fd-e03d62a9595f
-Q1527,Minnesota,Q2434360,Tim Walz,Tim Walz,male,1964-04-06T00:00:00Z,11,,Q2434360-cc0ca708-4183-b9fb-5be6-a8b16f83bbec
-Q1494,Mississippi,Q7687964,Tate Reeves,Tate Reeves,male,1974-06-05T00:00:00Z,11,,Q7687964-34968edb-489a-6bc3-7fcc-9379aa03e396
-Q1581,Missouri,Q6848323,Mike Parson,Mike Parson,male,1955-09-17T00:00:00Z,11,,Q6848323-d61e849a-4433-9dbe-5d65-8f432a5ea180
-Q1212,Montana,Q5605607,Greg Gianforte,Greg Gianforte,male,1961-04-17T00:00:00Z,11,,Q5605607-d94c4fb9-47b3-ea1e-f7df-85dd7398155d
-Q1553,Nebraska,Q6106781,Pete Ricketts,Pete Ricketts,male,1964-08-19T00:00:00Z,11,,Q6106781-5575F356-6349-47E8-923E-D4071E522FDF
-Q1227,Nevada,Q16185594,Steve Sisolak,Steve Sisolak,male,1953-12-26T00:00:00Z,11,,Q16185594-7c27eb5f-4eee-a837-e1ff-57f7758c690b
-Q759,New Hampshire,Q16215583,Chris Sununu,Chris Sununu,male,1974-11-05T00:00:00Z,11,,Q16215583-2be5d2c8-4ba5-ab9e-6799-1c43855815f9
-Q1408,New Jersey,Q260042,Phil Murphy,Phil Murphy,male,1957-08-16T00:00:00Z,11,,Q260042-36bd02e2-4575-b91b-4d2b-dcc202969938
-Q1522,New Mexico,Q3917203,Michelle Lujan Grisham,Michelle Lujan Grisham,female,1959-10-24T00:00:00Z,11,,q3917203-C470B416-DF1D-49D9-A805-56ECA24B59BE
-Q1384,New York,Q11673,Andrew Cuomo,Andrew Cuomo,male,1957-12-06T00:00:00Z,11,,Q11673-13C32724-A658-41E1-864E-B190F2F41235
-Q1454,North Carolina,Q7372694,Roy Cooper,Roy Cooper,male,1957-06-13T00:00:00Z,11,,Q7372694-4c46a49d-4721-33ca-1b49-5b4451933249
-Q1207,North Dakota,Q22095395,Doug Burgum,Doug Burgum,male,1956-08-01T00:00:00Z,11,,Q22095395-e0509ac9-4724-2cbe-12e9-8847090bc917
+Q1391,Maryland,Q16731303,Larry Hogan,Larry Hogan,male,1956-05-25T00:00:00Z,11,https://www.nga.org/governors/,Q16731303-3A1D0ED4-77B7-4C72-8EA8-B355283D5069
+Q771,Massachusetts,Q5076629,Charlie Baker,Charlie Baker,male,1956-11-13T00:00:00Z,11,https://www.nga.org/governors/,Q5076629-9E3F016C-FB0E-434C-A99B-482FC1B4BADD
+Q1166,Michigan,Q5607720,Gretchen Whitmer,Gretchen Whitmer,female,1971-08-23T00:00:00Z,11,https://www.nga.org/governors/,Q5607720-9a37de9e-41e2-9f35-80fd-e03d62a9595f
+Q1527,Minnesota,Q2434360,Tim Walz,Tim Walz,male,1964-04-06T00:00:00Z,11,https://www.nga.org/governors/,Q2434360-cc0ca708-4183-b9fb-5be6-a8b16f83bbec
+Q1494,Mississippi,Q7687964,Tate Reeves,Tate Reeves,male,1974-06-05T00:00:00Z,11,https://www.nga.org/governors/,Q7687964-34968edb-489a-6bc3-7fcc-9379aa03e396
+Q1581,Missouri,Q6848323,Mike Parson,Mike Parson,male,1955-09-17T00:00:00Z,11,https://www.nga.org/governors/,Q6848323-d61e849a-4433-9dbe-5d65-8f432a5ea180
+Q1212,Montana,Q5605607,Greg Gianforte,Greg Gianforte,male,1961-04-17T00:00:00Z,11,https://www.nga.org/governors/,Q5605607-d94c4fb9-47b3-ea1e-f7df-85dd7398155d
+Q1553,Nebraska,Q6106781,Pete Ricketts,Pete Ricketts,male,1964-08-19T00:00:00Z,11,https://www.nga.org/governors/,Q6106781-5575F356-6349-47E8-923E-D4071E522FDF
+Q1227,Nevada,Q16185594,Steve Sisolak,Steve Sisolak,male,1953-12-26T00:00:00Z,11,https://www.nga.org/governors/,Q16185594-7c27eb5f-4eee-a837-e1ff-57f7758c690b
+Q759,New Hampshire,Q16215583,Chris Sununu,Chris Sununu,male,1974-11-05T00:00:00Z,11,https://www.nga.org/governors/,Q16215583-2be5d2c8-4ba5-ab9e-6799-1c43855815f9
+Q1408,New Jersey,Q260042,Phil Murphy,Phil Murphy,male,1957-08-16T00:00:00Z,11,https://www.nga.org/governors/,Q260042-36bd02e2-4575-b91b-4d2b-dcc202969938
+Q1522,New Mexico,Q3917203,Michelle Lujan Grisham,Michelle Lujan Grisham,female,1959-10-24T00:00:00Z,11,https://www.nga.org/governors/,q3917203-C470B416-DF1D-49D9-A805-56ECA24B59BE
+Q1384,New York,Q11673,Andrew Cuomo,Andrew Cuomo,male,1957-12-06T00:00:00Z,11,https://www.nga.org/governors/,Q11673-13C32724-A658-41E1-864E-B190F2F41235
+Q1454,North Carolina,Q7372694,Roy Cooper,Roy Cooper,male,1957-06-13T00:00:00Z,11,https://www.nga.org/governors/,Q7372694-4c46a49d-4721-33ca-1b49-5b4451933249
+Q1207,North Dakota,Q22095395,Doug Burgum,Doug Burgum,male,1956-08-01T00:00:00Z,11,https://www.nga.org/governors/,Q22095395-e0509ac9-4724-2cbe-12e9-8847090bc917
 Q16644,Northern Mariana Islands,Q21863882,Ralph Deleon Guerrero Torres,Ralph Torres,male,1979-08-06T00:00:00Z,11,https://www.nga.org/governors/,Q21863882-37385035-4cc8-2c18-e807-10280bbe1501
-Q1397,Ohio,Q1363468,Mike DeWine,Mike DeWine,male,1947-01-05T00:00:00Z,11,,Q1363468-a0b7b765-4f71-3f2c-3851-5ce184c3106b
-Q1649,Oklahoma,Q58322517,Kevin Stitt,Kevin Stitt,male,1972-12-28T00:00:00Z,11,,Q58322517-83d8da6c-47c9-b607-da82-63c31ac17990
-Q824,Oregon,Q6375399,Kate Brown,Kate Brown,female,1960-06-21T00:00:00Z,11,,Q6375399-3AF07028-E847-4987-9D81-9F471795F556
-Q1400,Pennsylvania,Q7794795,Tom Wolf,Tom Wolf,male,1948-11-17T00:00:00Z,11,,Q7794795-D8F292DD-62BD-4216-AFDE-32E89A822964
-Q1183,Puerto Rico,Q2277878,Pedro Pierluisi,Pedro Pierluisi,male,1959-04-26T00:00:00Z,11,,Q2277878-d796e268-47a8-dca4-03b2-00a8f7c3c9c8
+Q1397,Ohio,Q1363468,Mike DeWine,Mike DeWine,male,1947-01-05T00:00:00Z,11,https://www.nga.org/governors/,Q1363468-a0b7b765-4f71-3f2c-3851-5ce184c3106b
+Q1649,Oklahoma,Q58322517,Kevin Stitt,Kevin Stitt,male,1972-12-28T00:00:00Z,11,https://www.nga.org/governors/,Q58322517-83d8da6c-47c9-b607-da82-63c31ac17990
+Q824,Oregon,Q6375399,Kate Brown,Kate Brown,female,1960-06-21T00:00:00Z,11,https://www.nga.org/governors/,Q6375399-3AF07028-E847-4987-9D81-9F471795F556
+Q1400,Pennsylvania,Q7794795,Tom Wolf,Tom Wolf,male,1948-11-17T00:00:00Z,11,https://www.nga.org/governors/,Q7794795-D8F292DD-62BD-4216-AFDE-32E89A822964
+Q1183,Puerto Rico,Q2277878,Pedro Pierluisi,Pedro Pierluisi,male,1959-04-26T00:00:00Z,11,https://www.nga.org/governors/,Q2277878-d796e268-47a8-dca4-03b2-00a8f7c3c9c8
 Q1387,Rhode Island,Q5218111,Dan McKee,Daniel McKee,male,1951-06-16T00:00:00Z,11,https://www.nga.org/governors/,Q5218111-f891f49d-4aa4-1546-b56f-86e4b3f2afc6
-Q1456,South Carolina,Q5725737,Henry McMaster,Henry McMaster,male,1947-05-27T00:00:00Z,11,,Q5725737-bc947983-4fa7-1811-e322-a0203eaa657b
-Q1211,South Dakota,Q465749,Kristi Noem,Kristi Noem,female,1971-11-30T00:00:00Z,11,,Q465749-6dbe6954-4537-2b29-e785-7dde45eb9233
-Q1509,Tennessee,Q58321685,Bill Lee,Bill Lee,male,1959-10-09T00:00:00Z,11,,Q58321685-67c50c3b-4f9b-bbcf-a60d-286b4f384b55
-Q1439,Texas,Q5605224,Greg Abbott,Greg Abbott,male,1957-11-13T00:00:00Z,11,,Q5605224-aae6907d-472b-4fac-6378-a37bfc37969b
+Q1456,South Carolina,Q5725737,Henry McMaster,Henry McMaster,male,1947-05-27T00:00:00Z,11,https://www.nga.org/governors/,Q5725737-bc947983-4fa7-1811-e322-a0203eaa657b
+Q1211,South Dakota,Q465749,Kristi Noem,Kristi Noem,female,1971-11-30T00:00:00Z,11,https://www.nga.org/governors/,Q465749-6dbe6954-4537-2b29-e785-7dde45eb9233
+Q1509,Tennessee,Q58321685,Bill Lee,Bill Lee,male,1959-10-09T00:00:00Z,11,https://www.nga.org/governors/,Q58321685-67c50c3b-4f9b-bbcf-a60d-286b4f384b55
+Q1439,Texas,Q5605224,Greg Abbott,Greg Abbott,male,1957-11-13T00:00:00Z,11,https://www.nga.org/governors/,Q5605224-aae6907d-472b-4fac-6378-a37bfc37969b
 Q11703,United States Virgin Islands,Q59302363,Albert Bryan Jr.,Albert Bryan Jr.,male,1968-02-21T00:00:00Z,11,,Q59302363-4e6c07ba-f8a3-4c20-a4aa-5bbfb21465ef
-Q829,Utah,Q16208237,Spencer Cox,Spencer Cox,male,1975-07-11T00:00:00Z,11,,Q16208237-af25eeab-40b8-cb8f-5da5-de06b5244c37
-Q16551,Vermont,Q7185808,Phil Scott,Phil Scott,male,1958-08-04T00:00:00Z,11,,Q7185808-05809132-486b-7f97-487d-9128a2c42798
-Q1370,Virginia,Q7287916,Ralph Northam,Ralph Northam,male,1959-09-13T00:00:00Z,11,,Q7287916-6b476f8f-4587-6e2b-d1f7-d7870c129b06
-Q1223,Washington,Q1100710,Jay Inslee,Jay Inslee,male,1951-02-09T00:00:00Z,11,,q1100710-8782B691-0947-425E-900E-4B76192A7C3F
-Q1371,West Virginia,Q20684288,Jim Justice,Jim Justice,male,1951-04-27T00:00:00Z,11,,Q20684288-f36f7dcf-4165-41ac-3eda-b54b2786b036
-Q1537,Wisconsin,Q7822309,Tony Evers,Tony Evers,male,1951-11-05T00:00:00Z,11,,Q7822309-1413f51c-4814-42e9-bf8c-8e498f8ec9cc
-Q1214,Wyoming,Q6767775,Mark Gordon,Mark Gordon,male,1957-03-14T00:00:00Z,11,,Q6767775-b4723a46-6703-4749-ad6e-2719f52e4a26
+Q829,Utah,Q16208237,Spencer Cox,Spencer Cox,male,1975-07-11T00:00:00Z,11,https://www.nga.org/governors/,Q16208237-af25eeab-40b8-cb8f-5da5-de06b5244c37
+Q16551,Vermont,Q7185808,Phil Scott,Phil Scott,male,1958-08-04T00:00:00Z,11,https://www.nga.org/governors/,Q7185808-05809132-486b-7f97-487d-9128a2c42798
+Q1370,Virginia,Q7287916,Ralph Northam,Ralph Northam,male,1959-09-13T00:00:00Z,11,https://www.nga.org/governors/,Q7287916-6b476f8f-4587-6e2b-d1f7-d7870c129b06
+Q1223,Washington,Q1100710,Jay Inslee,Jay Inslee,male,1951-02-09T00:00:00Z,11,https://www.nga.org/governors/,q1100710-8782B691-0947-425E-900E-4B76192A7C3F
+Q1371,West Virginia,Q20684288,Jim Justice,Jim Justice,male,1951-04-27T00:00:00Z,11,https://www.nga.org/governors/,Q20684288-f36f7dcf-4165-41ac-3eda-b54b2786b036
+Q1537,Wisconsin,Q7822309,Tony Evers,Tony Evers,male,1951-11-05T00:00:00Z,11,https://www.nga.org/governors/,Q7822309-1413f51c-4814-42e9-bf8c-8e498f8ec9cc
+Q1214,Wyoming,Q6767775,Mark Gordon,Mark Gordon,male,1957-03-14T00:00:00Z,11,https://www.nga.org/governors/,Q6767775-b4723a46-6703-4749-ad6e-2719f52e4a26

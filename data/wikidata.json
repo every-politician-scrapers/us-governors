@@ -49,13 +49,24 @@
     "state": "American Samoa",
     "id": "Q16641",
     "governor": {
-      "name": "Lemanu Peleti Mauga",
+      "name": "Lemanu P. S. Mauga",
       "gender": "male",
       "birth_date": "1949-01-01",
       "identifiers": [
         {
           "identifier": "Q6521013",
           "scheme": "wikidata.org"
+        }
+      ],
+      "other_names": [
+        {
+          "name": "Lemanu Peleti Mauga",
+          "source": "wikidata.org"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nga.org/governors/"
         }
       ]
     }
@@ -72,6 +83,11 @@
           "identifier": "Q5300433",
           "scheme": "wikidata.org"
         }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nga.org/governors/"
+        }
       ]
     }
   },
@@ -86,6 +102,11 @@
         {
           "identifier": "Q720121",
           "scheme": "wikidata.org"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nga.org/governors/"
         }
       ]
     }
@@ -102,6 +123,11 @@
           "identifier": "Q461391",
           "scheme": "wikidata.org"
         }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nga.org/governors/"
+        }
       ]
     }
   },
@@ -116,6 +142,11 @@
         {
           "identifier": "Q935734",
           "scheme": "wikidata.org"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nga.org/governors/"
         }
       ]
     }
@@ -132,6 +163,11 @@
           "identifier": "Q1973878",
           "scheme": "wikidata.org"
         }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nga.org/governors/"
+        }
       ]
     }
   },
@@ -146,6 +182,11 @@
         {
           "identifier": "Q505302",
           "scheme": "wikidata.org"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nga.org/governors/"
         }
       ]
     }
@@ -162,6 +203,11 @@
           "identifier": "Q3105215",
           "scheme": "wikidata.org"
         }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nga.org/governors/"
+        }
       ]
     }
   },
@@ -176,6 +222,11 @@
         {
           "identifier": "Q4964973",
           "scheme": "wikidata.org"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nga.org/governors/"
         }
       ]
     }
@@ -192,6 +243,11 @@
           "identifier": "Q21066675",
           "scheme": "wikidata.org"
         }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nga.org/governors/"
+        }
       ]
     }
   },
@@ -206,6 +262,11 @@
         {
           "identifier": "Q16189318",
           "scheme": "wikidata.org"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nga.org/governors/"
         }
       ]
     }
@@ -222,6 +283,11 @@
           "identifier": "Q4954097",
           "scheme": "wikidata.org"
         }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nga.org/governors/"
+        }
       ]
     }
   },
@@ -229,13 +295,24 @@
     "state": "Illinois",
     "id": "Q1204",
     "governor": {
-      "name": "J.B. Pritzker",
+      "name": "JB Pritzker",
       "gender": "male",
       "birth_date": "1965-01-19",
       "identifiers": [
         {
           "identifier": "Q6103950",
           "scheme": "wikidata.org"
+        }
+      ],
+      "other_names": [
+        {
+          "name": "J.B. Pritzker",
+          "source": "wikidata.org"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nga.org/governors/"
         }
       ]
     }
@@ -252,6 +329,11 @@
           "identifier": "Q23016975",
           "scheme": "wikidata.org"
         }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nga.org/governors/"
+        }
       ]
     }
   },
@@ -266,6 +348,11 @@
         {
           "identifier": "Q6409269",
           "scheme": "wikidata.org"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nga.org/governors/"
         }
       ]
     }
@@ -282,6 +369,11 @@
           "identifier": "Q6499080",
           "scheme": "wikidata.org"
         }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nga.org/governors/"
+        }
       ]
     }
   },
@@ -297,6 +389,11 @@
           "identifier": "Q21572825",
           "scheme": "wikidata.org"
         }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nga.org/governors/"
+        }
       ]
     }
   },
@@ -311,6 +408,11 @@
         {
           "identifier": "Q6221385",
           "scheme": "wikidata.org"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nga.org/governors/"
         }
       ]
     }
@@ -353,6 +455,11 @@
           "identifier": "Q16731303",
           "scheme": "wikidata.org"
         }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nga.org/governors/"
+        }
       ]
     }
   },
@@ -367,6 +474,11 @@
         {
           "identifier": "Q5076629",
           "scheme": "wikidata.org"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nga.org/governors/"
         }
       ]
     }
@@ -383,6 +495,11 @@
           "identifier": "Q5607720",
           "scheme": "wikidata.org"
         }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nga.org/governors/"
+        }
       ]
     }
   },
@@ -397,6 +514,11 @@
         {
           "identifier": "Q2434360",
           "scheme": "wikidata.org"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nga.org/governors/"
         }
       ]
     }
@@ -413,6 +535,11 @@
           "identifier": "Q7687964",
           "scheme": "wikidata.org"
         }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nga.org/governors/"
+        }
       ]
     }
   },
@@ -427,6 +554,11 @@
         {
           "identifier": "Q6848323",
           "scheme": "wikidata.org"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nga.org/governors/"
         }
       ]
     }
@@ -443,6 +575,11 @@
           "identifier": "Q5605607",
           "scheme": "wikidata.org"
         }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nga.org/governors/"
+        }
       ]
     }
   },
@@ -457,6 +594,11 @@
         {
           "identifier": "Q6106781",
           "scheme": "wikidata.org"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nga.org/governors/"
         }
       ]
     }
@@ -473,6 +615,11 @@
           "identifier": "Q16185594",
           "scheme": "wikidata.org"
         }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nga.org/governors/"
+        }
       ]
     }
   },
@@ -487,6 +634,11 @@
         {
           "identifier": "Q16215583",
           "scheme": "wikidata.org"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nga.org/governors/"
         }
       ]
     }
@@ -503,6 +655,11 @@
           "identifier": "Q260042",
           "scheme": "wikidata.org"
         }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nga.org/governors/"
+        }
       ]
     }
   },
@@ -517,6 +674,11 @@
         {
           "identifier": "Q3917203",
           "scheme": "wikidata.org"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nga.org/governors/"
         }
       ]
     }
@@ -533,6 +695,11 @@
           "identifier": "Q11673",
           "scheme": "wikidata.org"
         }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nga.org/governors/"
+        }
       ]
     }
   },
@@ -548,6 +715,11 @@
           "identifier": "Q7372694",
           "scheme": "wikidata.org"
         }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nga.org/governors/"
+        }
       ]
     }
   },
@@ -562,6 +734,11 @@
         {
           "identifier": "Q22095395",
           "scheme": "wikidata.org"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nga.org/governors/"
         }
       ]
     }
@@ -604,6 +781,11 @@
           "identifier": "Q1363468",
           "scheme": "wikidata.org"
         }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nga.org/governors/"
+        }
       ]
     }
   },
@@ -618,6 +800,11 @@
         {
           "identifier": "Q58322517",
           "scheme": "wikidata.org"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nga.org/governors/"
         }
       ]
     }
@@ -634,6 +821,11 @@
           "identifier": "Q6375399",
           "scheme": "wikidata.org"
         }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nga.org/governors/"
+        }
       ]
     }
   },
@@ -649,6 +841,11 @@
           "identifier": "Q7794795",
           "scheme": "wikidata.org"
         }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nga.org/governors/"
+        }
       ]
     }
   },
@@ -663,6 +860,11 @@
         {
           "identifier": "Q2277878",
           "scheme": "wikidata.org"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nga.org/governors/"
         }
       ]
     }
@@ -705,6 +907,11 @@
           "identifier": "Q5725737",
           "scheme": "wikidata.org"
         }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nga.org/governors/"
+        }
       ]
     }
   },
@@ -719,6 +926,11 @@
         {
           "identifier": "Q465749",
           "scheme": "wikidata.org"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nga.org/governors/"
         }
       ]
     }
@@ -735,6 +947,11 @@
           "identifier": "Q58321685",
           "scheme": "wikidata.org"
         }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nga.org/governors/"
+        }
       ]
     }
   },
@@ -749,6 +966,11 @@
         {
           "identifier": "Q5605224",
           "scheme": "wikidata.org"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nga.org/governors/"
         }
       ]
     }
@@ -780,6 +1002,11 @@
           "identifier": "Q16208237",
           "scheme": "wikidata.org"
         }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nga.org/governors/"
+        }
       ]
     }
   },
@@ -794,6 +1021,11 @@
         {
           "identifier": "Q7185808",
           "scheme": "wikidata.org"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nga.org/governors/"
         }
       ]
     }
@@ -810,6 +1042,11 @@
           "identifier": "Q7287916",
           "scheme": "wikidata.org"
         }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nga.org/governors/"
+        }
       ]
     }
   },
@@ -824,6 +1061,11 @@
         {
           "identifier": "Q1100710",
           "scheme": "wikidata.org"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nga.org/governors/"
         }
       ]
     }
@@ -840,6 +1082,11 @@
           "identifier": "Q20684288",
           "scheme": "wikidata.org"
         }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nga.org/governors/"
+        }
       ]
     }
   },
@@ -855,6 +1102,11 @@
           "identifier": "Q7822309",
           "scheme": "wikidata.org"
         }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nga.org/governors/"
+        }
       ]
     }
   },
@@ -869,6 +1121,11 @@
         {
           "identifier": "Q6767775",
           "scheme": "wikidata.org"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nga.org/governors/"
         }
       ]
     }
