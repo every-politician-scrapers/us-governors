@@ -1019,13 +1019,24 @@
     "state": "United States Virgin Islands",
     "id": "Q11703",
     "governor": {
-      "name": "Albert Bryan Jr.",
+      "name": "Albert Bryan",
       "gender": "male",
       "birth_date": "1968-02-21",
       "identifiers": [
         {
           "identifier": "Q59302363",
           "scheme": "wikidata.org"
+        }
+      ],
+      "other_names": [
+        {
+          "name": "Albert Bryan Jr.",
+          "source": "wikidata.org"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nga.org/governors/"
         }
       ]
     }
