@@ -1,0 +1,11 @@
+{
+    "source": {
+        "url":   "https://www.nga.org/governors/",
+        "title": "Governors - National Governors Association",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/us-governors"
+}
